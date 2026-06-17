@@ -1,5 +1,6 @@
 import React from 'react';
 import { ArrowRight, CheckCircle, School, Users, BookOpen, Globe } from 'lucide-react';
+import AIAdvisor from './AIAdvisor';
 
 const LandingPage = () => {
   const stats = [
@@ -90,6 +91,9 @@ const LandingPage = () => {
           </div>
         </div>
       </div>
+
+      {/* AI Admissions Advisor (Claude-powered) */}
+      <AIAdvisor />
 
       {/* CTA Section */}
       <div className="bg-blue-900 text-white py-16">
