@@ -44,7 +44,7 @@ const LandingPage = () => {
             </h1>
             <p className="text-xl mb-8">
               Apply to multiple top institutions across India with a single application. 
-              UniLink simplifies your college admission journey.
+              AI College Advisor simplifies your college admission journey.
             </p>
             <div className="flex gap-4 justify-center">
               <button className="bg-white text-blue-800 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition flex items-center gap-2">
@@ -78,7 +78,7 @@ const LandingPage = () => {
       <div className="bg-gray-50 py-20">
         <div className="max-w-7xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">
-            Why Choose UniLink?
+            Why Choose AI College Advisor?
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {features.map((feature, index) => (
@@ -102,7 +102,7 @@ const LandingPage = () => {
             Ready to Start Your College Journey?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of students who have simplified their college application process with UniLink.
+            Join thousands of students who have simplified their college application process with AI College Advisor.
           </p>
           <div className="flex gap-4 justify-center">
             <button className="bg-white text-blue-900 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition">
@@ -120,7 +120,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold text-white mb-4">UniLink</h3>
+              <h3 className="text-xl font-bold text-white mb-4">AI College Advisor</h3>
               <p className="text-sm">
                 Simplifying college admissions across India
               </p>
@@ -154,7 +154,7 @@ const LandingPage = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-sm text-center">
-            © 2024 UniLink. All rights reserved.
+            © 2024 AI College Advisor. All rights reserved.
           </div>
         </div>
       </footer>

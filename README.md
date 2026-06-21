@@ -1,6 +1,6 @@
-# UniLink — Landing Page
+# AI College Advisor — Landing Page
 
-The marketing landing page for **UniLink**, a platform to simplify college admissions by connecting students and universities in one place.
+The marketing landing page for **AI College Advisor**, a platform to simplify college admissions by connecting students and universities in one place.
 
 > This repo is the **landing page** (a React single-page site). It's the front door to the product — students learn how it works and browse universities; universities partner and manage applications.
 

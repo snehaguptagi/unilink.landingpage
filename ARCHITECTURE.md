@@ -1,6 +1,6 @@
 # Architecture
 
-UniLink is a **client-side React app** (Create React App) — a marketing landing page for the UniLink college-admissions concept, plus a Claude-powered AI admissions advisor. No backend.
+AI College Advisor is a **client-side React app** (Create React App) — a marketing landing page for the AI College Advisor college-admissions concept, plus a Claude-powered AI admissions advisor. No backend.
 
 ## Stack
 - React (Create React App / `react-scripts`)

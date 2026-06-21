@@ -36,7 +36,7 @@ function AIAdvisor() {
     setAdvice('');
 
     const prompt =
-      'You are a college admissions advisor for UniLink. Based on the student profile below, ' +
+      'You are a college admissions advisor. Based on the student profile below, ' +
       'respond with:\n' +
       '1. A shortlist of 4-6 universities, each tagged (Reach / Match / Safety) with one line on why it fits.\n' +
       '2. Three concrete next steps for the next month.\n' +
